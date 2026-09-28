@@ -21,4 +21,10 @@ Para ejecutar la aplicación:
 ```bash
 streamlit run app.py
 ```
+## Aplicación desplegada
+
+La aplicación está disponible públicamente en Render:
+
+https://vehicles-dashboard-ufg9.onrender.com
+
 
